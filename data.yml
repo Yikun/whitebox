@@ -1,0 +1,16 @@
+users:
+- name: 'Yikun Jiang'
+  gitee_id: 'yikunkero'
+  github_id: 'Yikun'
+  repos:
+  - https://github.com/apache/spark
+  - https://github.com/yikun/hub-mirror-action
+  - https://github.com/yikun/repoinsight
+  - https://gitee.com/opensourceway/om-bigdata
+- name: 'Jun Zhong'
+  gitee_id: 'zhongjun2'
+  github_id: 'zhongjun2'
+  repos:
+  - https://gitee.com/opensourceway/om-collections
+  - https://gitee.com/opensourceway/om-webserver
+  - https://github.com/opensourceways/infra-common
